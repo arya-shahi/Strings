@@ -12,3 +12,9 @@ int main(){
     cout<<"Reversed string is: "<<rev_str<<endl;
 
 }
+
+/*
+Enter a string: 
+sitpune
+Reversed string is: enuptis
+*/
