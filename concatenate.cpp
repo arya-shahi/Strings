@@ -8,3 +8,12 @@ int main(){
     cin>>b;
     cout<<"Concatenated String is: "<<a+b<<endl;
 }
+/*
+
+Enter first sring: 
+sit
+Enter second sring:
+pune
+Concatenated String is: sitpune
+
+*/
