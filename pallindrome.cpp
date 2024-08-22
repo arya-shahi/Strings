@@ -16,3 +16,9 @@ else{
     cout<<"It is not a palindrome";
 }
 }
+
+/*
+Enter a string: 
+sitpune
+It is not a palindrome
+*/
