@@ -23,6 +23,7 @@ Print or return the concatenated string.
 
 End Program.
 
+---
  
 
 ### Algorithm 2: Reverse a String
@@ -38,7 +39,7 @@ Print or return the reversed string.
 
 End Program.
 
-
+---
 
 ### Algorithm 3: Check if a String is a Palindrome
 
@@ -58,7 +59,7 @@ If the loop completes without mismatches, the string is a palindrome. Return tru
 
 Print or return true or false based on the palindrome check.
 
-
+---
 
 **Conclusion**
 
