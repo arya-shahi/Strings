@@ -10,12 +10,22 @@ VS Code
 ## Theory-
 
 ### Algorithm 1: Concatenate Strings
--Start Program.
--Take two strings, str1 and str2
--Combine str1 and str2 into a single string.
--result = str1 + str2.
--Print or return the concatenated string.
+lgorithm 1: Concatenate Strings
+Start Program.
 
+Input:
+
+Take two strings, str1 and str2.
+
+Combine str1 and str2 into a single string.
+
+Output:
+
+Print or return the concatenated string.
+
+End Program.
+
+ 
 
 ### Algorithm 2: Reverse a String
 
